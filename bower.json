@@ -1,0 +1,28 @@
+{
+  "name": "to-do-list",
+  "description": "the todo list to end all todo lists",
+  "main": "index.js",
+  "authors": [
+    "jackson and chris"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "task",
+    "todo"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
